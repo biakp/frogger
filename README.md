@@ -3,7 +3,7 @@ Arcade game project for Advanced front-end **Udacity** nanodegree.
 
 ## How to play:
 Open index.html in your favorite browser
-Or you can open this online version:https://biakp.github.io/frogger/
+or you can access this online version:https://biakp.github.io/frogger/
 - Use your keyboard arrows to make pikachu walk on the board.
 - Your goal is to reach water!
 
